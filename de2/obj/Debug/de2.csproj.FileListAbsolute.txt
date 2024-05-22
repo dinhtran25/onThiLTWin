@@ -1,0 +1,10 @@
+E:\64anm1\LTWindow\de2\bin\Debug\de2.exe.config
+E:\64anm1\LTWindow\de2\bin\Debug\de2.exe
+E:\64anm1\LTWindow\de2\bin\Debug\de2.pdb
+E:\64anm1\LTWindow\de2\obj\Debug\de2.csproj.AssemblyReference.cache
+E:\64anm1\LTWindow\de2\obj\Debug\de2.Form1.resources
+E:\64anm1\LTWindow\de2\obj\Debug\de2.Properties.Resources.resources
+E:\64anm1\LTWindow\de2\obj\Debug\de2.csproj.GenerateResource.cache
+E:\64anm1\LTWindow\de2\obj\Debug\de2.csproj.CoreCompileInputs.cache
+E:\64anm1\LTWindow\de2\obj\Debug\de2.exe
+E:\64anm1\LTWindow\de2\obj\Debug\de2.pdb
